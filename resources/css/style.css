@@ -215,6 +215,9 @@ body {
   html {
     font-size: 6px;
   }
+  .card__image {
+    background-image: url(../images/image-header-mobile.jpg);
+  }
   .card__text {
     padding: 5rem;
     text-align: center;
